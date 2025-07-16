@@ -23,3 +23,6 @@ This project explores business performance using a retail dataset from a fiction
 - Some sub-categories generate high sales but poor profit, suggesting inefficient discounting or pricing strategies.
 - Profit and sales show moderate positive correlation, while discount has negative correlation with profit.
 - Major cities with high order volume should be targeted for better inventory and promotional planning.
+
+Data Source: Kaggle
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
